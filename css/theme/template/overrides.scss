@@ -1,0 +1,23 @@
+.reveal {
+	.slides {
+		text-align: left;
+	}
+
+	pre {
+		width: 100%;
+		font-size: 1em;
+		padding: 0.25em;
+		background: #3F3F3F;
+		color: #EEE;
+		code {
+			overflow: inherit;
+			margin: -0.25em;
+		}
+	}
+
+	section img {
+		border: none;
+		background: transparent;
+		box-shadow: none;
+	}
+}
